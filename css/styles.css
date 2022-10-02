@@ -43,8 +43,6 @@ body {
 }
   #collapsable-nav li { /* Collapsed nav menu text */
     font-size: 1.2em;
-    text-align: center;
-
   }
 hr{
 	margin-top: 5px;
