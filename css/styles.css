@@ -1,0 +1,80 @@
+body {
+  font-size: 16px;
+  color: #000;
+  background-color: #44bb33;
+}
+
+#header-nav {
+  background-color: #aaa;
+  border-radius: 0;
+  border: 2;
+  border-color: #000;
+}
+
+ .navbar-brand h1{
+  font-family: 'Lora', serif;
+  color: #000;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #000;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -40px;
+}
+
+@media (max-width: 768px) {
+#collapsable-nav {
+	background-color: #44bbff;
+}
+#main-content{
+	margin-right: 30px;
+	margin-left: 30px;
+
+}
+}
+  #collapsable-nav li { /* Collapsed nav menu text */
+    font-size: 1.2em;
+    text-align: center;
+
+  }
+hr{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+.navbar-nav{
+	margin-bottom: 0px;
+}
+
+h1{
+  font-family: 'Lora', serif;
+  color: #000;
+  font-size: 2em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+h1{
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+#main-content{
+	background-color: #aaa;
+}
+
+#main-content h2{
+	margin-top: 2px;
+	margin-bottom: 4px;
+}
+
